@@ -3,8 +3,8 @@ title: 长风无言的博客
 SEOTitle: 贝贝的博客
 header-img: img/post-bg-desk.jpg
 email: lbqlzy@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+description: "自由就是知道你的最爱，并且无所顾忌地去爱他."
+keyword: "长风无言，贝贝，嵌入式，学生，RTT"
 url: "http://qiubaiying.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://a2075804341.github.io" # you code repository
@@ -85,7 +85,7 @@ kramdown:
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
